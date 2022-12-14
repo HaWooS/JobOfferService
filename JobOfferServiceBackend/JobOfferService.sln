@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobOfferService", "JobOfferService\JobOfferService.csproj", "{24D264FE-58F3-4985-BC46-FA48E48C7C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D264FE-58F3-4985-BC46-FA48E48C7C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D264FE-58F3-4985-BC46-FA48E48C7C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D264FE-58F3-4985-BC46-FA48E48C7C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D264FE-58F3-4985-BC46-FA48E48C7C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D749444C-7B1F-40DE-A023-2A3C92A2EDA6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24d264fe-58f3-4985-bc46-fa48e48c7c3d": {
+      "ProjectGuid": "24d264fe-58f3-4985-bc46-fa48e48c7c3d",
+      "DisplayName": "JobOfferService",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

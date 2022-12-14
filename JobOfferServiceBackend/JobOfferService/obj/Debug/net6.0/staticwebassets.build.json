@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OYSuX6LePRzWfZtHRHe9DK/4Wsdqv87GxuLaV4Cpye0=",
+  "Source": "JobOfferService",
+  "BasePath": "_content/JobOfferService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
